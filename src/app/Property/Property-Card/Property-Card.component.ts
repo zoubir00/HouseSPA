@@ -1,4 +1,4 @@
-import { Component } from "@angular/core";
+import { Component,Input } from "@angular/core";
 
 @Component(
     {
@@ -7,13 +7,10 @@ import { Component } from "@angular/core";
     templateUrl:'Property-Card.component.html',
     styleUrls:['Property-Card.component.css']
 }
-)
+) 
 export class PropertyCardComponent{
+   @Input() property:any
 
-    property:any={
-       
-        "name":"Zoubir",
-        "Image":"https://i0.wp.com/www.jamiesale-cartoonist.com/wp-content/uploads/cartoon-business-man-free1.png?ssl=1"
 
-    }
+ 
 }

@@ -1,0 +1,34 @@
+[
+    {
+      "id":1,
+      "Rent":2,
+      "name":"Zoubir house",
+      "Type":"House",
+     "Image":"http://images.clipartpanda.com/clipart-house-colonial-house-clip-art_414014.jpg",
+     "Price":2800
+    },
+    {
+      "id":2,
+      "Rent":2,
+      "name":"Hassan house",
+      "Type":"House",
+      "Image":"https://2.bp.blogspot.com/-cE2p7RQ7Yuo/VTtrKag53fI/AAAAAAAAD9c/5FL_sBiXGVc/s1600/50c6974db3fc4b3a51000270_2-houses-with-6-homes-nodo17-architects_nodo17_02-1000x664.jpg",
+      "Price":2000
+    },
+    {
+      "id":3,
+      "Rent":2,
+      "name":"Hamza house",
+      "Type":"Villa",
+      "Image":"https://images.pexels.com/photos/3555615/pexels-photo-3555615.jpeg?cs=srgb&dl=photo-of-house-3555615.jpg&fm=jpg",
+      "Price":3000
+    },
+    {
+      "id":4,
+      "Rent":2,
+      "name":"Hamid house",
+      "Type":"House",
+      "Image":"https://th.bing.com/th/id/R.be150a063f40d9e5ed01b36c3a379e77?rik=SatuVvOY94%2bfNQ&riu=http%3a%2f%2fcliparts.co%2fcliparts%2fkTK%2fojj%2fkTKojjxjc.jpg&ehk=7%2bRyEAoATwSlxokcMFBkKfsClDOXT8iTAPH%2bzq38A1g%3d&risl=&pid=ImgRaw&r=0",
+      "Price":2500
+    }
+]
